@@ -1,0 +1,82 @@
+.regist{background: #fff; }
+.regist s{width:1200px; display: block; height: 2px;background:#ce1018;}
+.regist .r_box{width:1192px; border:4px solid #ebebf0; display: inline-block;padding-bottom: 60px;}
+.regist .r_box .title{color:#666666; font-size: 20px; font-family: Microsoft Yahei; height: 47px; line-height: 47px; background: #f8f8f8; padding-left:20px; font-weight:normal;}
+.regist .r_info{margin:15px 0 0 90px; border-right:1px solid #e5e5e5; position: relative;}
+.regist .r_info #r_tab{border-bottom: 1px solid #eaeaea;width:620px; display: inline-block; height: 46px;}
+.regist .r_info #r_tab li{float: left; width:259px; height: 45px;  position: relative;}
+.regist .r_info #r_tab li.cur{border-bottom: 3px solid #e53b3b;}
+.regist .r_info #r_tab li.cur i{background-position:-33px 0; width:8px; height: 5px; display: block; position: absolute; left:127px; top:47px;}
+.regist .r_info #r_tab li em{background-position: -140px -71px; width:18px; height: 15px; float:left;margin: 16px 10px 0 92px;}
+.regist .r_info #r_tab li em.em2{background-position: -160px -71px; width:14px; height: 18px;margin: 16px 2px 0 92px;margin: 14px 10px 0 92px;}
+.regist .r_info #r_tab li span{color:#000; font-size: 16px; font-family: Microsoft Yahei; line-height: 45px;}
+.regist .r_info .line2{border-left:1px solid #fafafa; border-right:1px solid #eaeaea; height: 21px;margin-top: 13px;position: absolute;top: 0;left: 258px;}
+.regist #r_cn{margin:20px 0 0 90px;}
+.regist #r_cn #mail{border-top:1px solid #dedede; width:348px;}
+.regist #r_cn #mail p,.regist #r_cn #phone p{width:348px; height:52px;border:1px solid #dedede; border-top: 0}
+.regist #r_cn #mail p label,.regist #r_cn #phone p label{color: #666666; float: left; line-height: 52px; width:70px; padding-left:20px;}
+.regist #r_cn #mail p input,.regist #r_cn #phone p input{float: left; width:230px; height: 18px; padding:6px 0; margin:11px 0; border:0; color: #ccc; line-height: 18px; font-family: Microsoft Yahei; font-size: 14px;}
+.regist #r_cn #mail .yanz{margin:15px 0 10px 0; overflow: hidden;}
+.regist #r_cn #mail .yanz p{width:128px; border:1px solid #dedede; float: left;}
+.regist #r_cn #mail .yanz p label{width:50px;}
+.regist #r_cn #mail .yanz p input{width:55px;}
+.regist #r_cn #mail .yanz img{float: left; margin:0 5px;}
+.regist #r_cn #mail .yanz span{float: left; line-height: 52px;}
+.regist #r_cn #mail span input,.regist #r_cn #phone span input{position:relative; top:2px;}
+.regist #r_cn #mail span a,.regist #r_cn #phone span a {color: #0067c3;}
+.regist #r_cn #mail .btn,.regist #r_cn #phone .btn{width:250px; height: 35px; line-height: 35px; color: #fff; font-size: 20px; text-align: center; background: #e21021; border:0; margin:20px 0 0 5px; display: block;}
+.regist .r_login{width:406px; margin:15px 60px 0 0;}
+.regist .r_login p{color: #444; font-size: 14px; line-height: 28px; margin-left:30px; overflow: hidden}
+.regist .r_login p a{color: #0067c3; font-size: 14px; font-family: Microsoft Yahei; background: url(../images/y_hbtn3.jpg) repeat; width:90px; height: 28px; border:1px solid #bdbdbd; float: left; text-align: center;line-height: 28px; margin-left:15px;}
+.regist .r_login h2{border-bottom: 1px dashed #aaaaaa; background: none; position: relative; height:42px;}
+.regist .r_login h2 span{position: absolute; color: #666666; font-size: 14px; background: #fff;left: 149px;top: 34px;padding: 0 10px; font-weight: normal;}
+.regist .r_login .icon, .login .icon{margin-top: 25px; margin-left:57px;}
+.regist .r_login .icon s, .login .icon s{background: url(../images/y_regist.png) no-repeat; width:31px; height: 31px; float: left; margin-right: 22px;}
+.regist .r_login .icon s.s1:hover, .login .icon s.s1:hover{background-position: 0 -31px;}
+.regist .r_login .icon s.s2, .login .icon s.s2{background-position: 0 -62px;}
+.regist .r_login .icon s.s2:hover, .login .icon s.s2:hover{background-position: 0 -92px;}
+.regist .r_login .icon s.s3, .login .icon s.s3{background-position: 0 -124px;}
+.regist .r_login .icon s.s3:hover, .login .icon s.s3:hover{background-position: 0 -155px;}
+.regist .r_login .icon s.s4, .login .icon s.s4{background-position: 0 -186px;}
+.regist .r_login .icon s.s4:hover, .login .icon s.s4:hover{background-position: 0 -217px;}
+.regist .r_login .icon s.s5, .login .icon s.s5{background-position: 0 -248px;}
+.regist .r_login .icon s.s5:hover, .login .icon s.s5:hover{background-position: 0 -279px;}
+.regist .r_login .icon s.s6, .login .icon s.s6{background-position: 0 -310px;}
+.regist .r_login .icon s.s6:hover, .login .icon s.s6:hover{background-position: 0 -341px;}
+.regist .r_login img {float: right; margin:58px 10px 0 0;}
+.regist #r_cn #phone p.spe{border:1px solid #dedede; margin-top: 15px; overflow: hidden;}
+.regist #r_cn #phone .yanz {overflow: hidden; }
+.regist #r_cn #phone .yanz p {width:200px; float: left;}
+.regist #r_cn #phone .yanz p input{width:100px;}
+.regist #r_cn #phone .yanz  .btn{width:138px; height:50px; border:1px solid #cccccc; float: left; background: #f3f3f3; color: #333; margin:17px 0 0 7px;}
+.regist #r_cn #phone span{margin-top: 10px; display: block;}
+.regist #r_cn div.class_list{display: none;}
+.regist #r_cn div.show{display: block;}
+.login{background: #fff; overflow: hidden; padding: 40px 0;}
+.login img{width:556px; height: 362px; margin-left:73px;}
+.login .l_cn{width:400px; height: 362px; float: right; background: #f9f9f8;margin-right:73px; border-radius: 8px; padding:0 22px;}
+.login .l_cn .title {margin-top: 15px; overflow: hidden;margin: 0 15px;}
+.login .l_cn .title span{color: #666666; font-size: 20px; font-family: Microsoft Yahei; font-weight: normal; float: left; line-height: 38px;}
+.login .l_cn .title a{color: #0066cc;font-weight: normal; float: right;line-height: 38px;}
+.login .l_cn form{margin: 0 15px;}
+.login .l_cn form p{border:1px solid #dedede;  height: 50px; background: #fff;}
+.login .l_cn form p.spe{border-top:0;}
+.login .l_cn form p input{border:none; float: left;width: 235px;height: 20px;margin: 7px 0 0 0;padding: 6px 0;}
+.login .l_cn form .s1{background-position: 0-89px; width:16px; height: 16px; float: left;margin: 19px 15px 0 18px;}
+.login .l_cn form .s2{background-position: -19px -89px; width:16px; height: 18px; float: left;margin: 15px 15px 0 18px;}
+.login .l_cn form .s3{background-position: -37px -89px; width:20px; height: 15px; float: right;margin: 19px 15px 0 18px;}
+.login .l_cn form span{margin-top: 5px;}
+.login .l_cn form .checkbox{position: relative; top: 3px;}
+.login .l_cn form a{color: #666666;margin-top: 5px;}
+.login .l_cn form .btn{width:250px; height: 35px;line-height: 35px; color: #fff; font-size: 20px; text-align: center; background: #e21021; border:0; margin:20px 0 0 5px;}
+.login .use{border-bottom: 1px dashed #aaaaaa; background: none; position: relative; height:42px; ;}
+.login .l_cn h2.use span{position: absolute; color: #666666; font-size: 14px; background: #f9f9f8;left: 149px;top: 34px;padding: 0 10px; font-weight: normal;}
+.reg_Fin{margin:20px 0 0 300px;}
+.reg_Fin h2{color: #b90000; font-size:30px; float: left; line-height: 40px;}
+.reg_Fin p{clear: both; color: #595757;font-size: 14px; padding-top: 15px;}
+.reg_Fin em{color: #232323; font-size: 14px; font-family: Microsoft Yahei; display: block; line-height: 53px;}
+.reg_Fin span{color: #232323; line-height: 20px;}
+.reg_Fin span a{color: #005ea7;}
+.reg_Fin .enter{Width:140px; height: 29px; line-height: 29px; color: #fff; font-size: 16px; font-family: Microsoft Yahei; display: block; background: #d00f1f; text-align: center; margin:15px 0; }
+
+
